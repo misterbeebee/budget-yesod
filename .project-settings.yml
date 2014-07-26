@@ -7,7 +7,7 @@ extensions:
   QuasiQuotes: true
   TypeFamilies: true
   MultiParamTypeClasses: true
-environment: ghc-7.4.2-stable-13.09
+environment: ghc-7.4.2-unstable
 cabal-file: project.cabal
 hidden-packages: ''
 version: 1

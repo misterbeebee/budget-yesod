@@ -1,6 +1,7 @@
 import           Handler.Fib
 import           Handler.Home
 import           Handler.Markdown
+import           Handler.Budget
 import           Import
 
 {-
